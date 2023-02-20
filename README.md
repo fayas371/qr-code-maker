@@ -1,2 +1,2 @@
 # qr-code-maker
-create qr code for inputing data
+creating file for the entered data and creating qr code for the inputed data
